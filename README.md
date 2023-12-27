@@ -135,7 +135,8 @@ access the index.html file.
             </div>
         </div>
     </body>
-</html>```
+</html>
+```
 ## Output:
 ![output_c](./book.png)
 

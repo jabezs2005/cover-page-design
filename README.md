@@ -22,7 +22,8 @@ Using the command runserver, run your server and then access the static and html
 access the index.html file.
 
 ### Code:
-## book.html
+
+## Code for book.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -48,8 +49,6 @@ access the index.html file.
             color: brown;
 
         }
-
-        
         .hrstyle{
             width:100px;
         }
